@@ -1,4 +1,4 @@
-﻿namespace P_Review.Models;
+﻿namespace P_Review.ApiMovie.Models;
 
 public class Movie
 {

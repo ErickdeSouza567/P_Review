@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using P_Review.Models;
-using LojaMicro.ApiProduto.Context;  // Use o namespace correto para o seu AppDbContext
+using P_Review.ApiMovie.Models;
+using P_Review.ApiMovie.Context;  // Use o namespace correto para o seu AppDbContext
 
-namespace P_Review
+namespace P_Review.ApiMovie
 {
     public class Program
     {

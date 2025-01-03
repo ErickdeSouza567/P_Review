@@ -1674,9 +1674,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\P_Review.Backend.csproj",
-      "projectName": "P_Review.Backend",
-      "projectPath": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\P_Review.Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\P_Review.ApiMovie.csproj",
+      "projectName": "P_Review.ApiMovie",
+      "projectPath": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\P_Review.ApiMovie.csproj",
       "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\obj\\",
       "projectStyle": "PackageReference",

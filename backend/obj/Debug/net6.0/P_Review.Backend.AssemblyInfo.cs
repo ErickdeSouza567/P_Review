@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P_Review.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8576fa0a3241518aed7fa76e5eb4f72ee6038760")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c72451dad412593471ec65b2e25f63b67274340")]
 [assembly: System.Reflection.AssemblyProductAttribute("P_Review.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P_Review.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

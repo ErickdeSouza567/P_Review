@@ -1,5 +1,4 @@
-﻿namespace P_Review.Models;
-
+﻿namespace P_Review.ApiMovie.Models;
 public class User
 {
     public int UserId { get; set; }
