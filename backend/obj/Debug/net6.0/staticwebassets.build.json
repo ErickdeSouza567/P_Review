@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "eUmmOfnuBFsPaKEOZ3MuMyPBnZPYjlUpGI9vEpKo3NQ=",
-  "Source": "P_Review.Backend",
-  "BasePath": "_content/P_Review.Backend",
+  "Hash": "PVwFlfc76jSOYfir+CQXCK9TgW4iFKDBCSlYwmcXg34=",
+  "Source": "P_Review.ApiMovie",
+  "BasePath": "_content/P_Review.ApiMovie",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

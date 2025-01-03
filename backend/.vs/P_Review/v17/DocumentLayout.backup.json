@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\migrations\\20250102023237_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:migrations\\20250102023237_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\migrations\\20250102023237_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:migrations\\20250102023237_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,40 +31,40 @@
       "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\p_review.apimovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:p_review.apimovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,21 +74,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T03:41:15.827Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -91,7 +90,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:46:54.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250102023237_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Migrations\\20250102023237_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250102023237_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Migrations\\20250102023237_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250102023237_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:46:48.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250102023237_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Migrations\\20250102023237_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250102023237_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Migrations\\20250102023237_InitialCreate.Designer.cs*",
+              "RelativeToolTip": "Migrations\\20250102023237_InitialCreate.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:46:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:41:15.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
@@ -99,12 +149,11 @@
               "RelativeToolTip": "Repositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T03:39:13.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T03:39:13.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IMovieRepository.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IMovieRepository.cs",
@@ -117,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MovieRepository.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\MovieRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\MovieRepository.cs",
@@ -125,25 +174,23 @@
               "RelativeToolTip": "Repositories\\MovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T03:22:03.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T03:22:03.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "P_Review.Backend.csproj",
+              "DocumentIndex": 7,
+              "Title": "P_Review.ApiMovie.csproj",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\P_Review.ApiMovie.csproj",
               "RelativeDocumentMoniker": "P_Review.ApiMovie.csproj",
               "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\P_Review.ApiMovie.csproj",
               "RelativeToolTip": "P_Review.ApiMovie.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-02T01:39:06.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T01:39:06.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -151,12 +198,11 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T02:01:45.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T02:01:45.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -164,12 +210,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T01:41:55.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T01:41:55.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
@@ -177,12 +222,11 @@
               "RelativeToolTip": "Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T01:42:59.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T01:42:59.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
@@ -190,12 +234,11 @@
               "RelativeToolTip": "Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T02:08:06.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T02:08:06.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -203,12 +246,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-02T02:01:19.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T02:01:19.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -216,12 +258,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T02:01:17.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T02:01:17.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -229,12 +270,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-02T02:03:30.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T02:03:30.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -242,8 +282,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-02T02:01:03.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T02:01:03.961Z"
             }
           ]
         }
