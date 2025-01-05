@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\backend",
+    "\\backend\\DTOs",
+    "\\backend\\DTOs\\Mapings",
     "\\backend\\Migrations",
     "\\backend\\Models"
   ],
-  "SelectedNode": "\\backend\\Migrations\\AppDbContextModelSnapshot.cs",
+  "SelectedNode": "\\backend\\DTOs\\Mapings\\MappingProfile.cs",
   "PreviewInSolutionExplorer": false
 }

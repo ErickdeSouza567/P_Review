@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using P_Review.ApiMovie.Models;
-using P_Review.ApiMovie.Context;  // Use o namespace correto para o seu AppDbContext
+using P_Review.ApiMovie.Context;
+using P_Review.ApiMovie.Repositories;
+using P_Review.ApiMovie.Services;
+using LojaMicro.ApiProduto.Repositories;  // Use o namespace correto para o seu AppDbContext
 
 namespace P_Review.ApiMovie
 {
@@ -16,11 +18,18 @@ namespace P_Review.ApiMovie
                     options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)
                     ));
 
+            builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
             // Add services to the container.
             builder.Services.AddControllers();
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<IMovieService, MovieService>();
+            builder.Services.AddScoped<IUserService, UserService>();
 
             var app = builder.Build();
 
