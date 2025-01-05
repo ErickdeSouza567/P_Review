@@ -18,7 +18,7 @@ namespace LojaMicro.ApiProduto.Repositories
             return await _context.Users.ToListAsync();
         }
 
-        public async Task<IEnumerable<User>> GetUsersProducts()
+        public async Task<IEnumerable<User>> GetUsersMovies()
         {
             return await _context.Users.Include(x => x.Movies).ToListAsync();
         }

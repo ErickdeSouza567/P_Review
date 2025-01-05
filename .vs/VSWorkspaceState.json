@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\backend",
+    "\\backend\\Migrations",
     "\\backend\\Models"
   ],
-  "SelectedNode": "\\backend\\P_Review.sln",
+  "SelectedNode": "\\backend\\Migrations\\AppDbContextModelSnapshot.cs",
   "PreviewInSolutionExplorer": false
 }
