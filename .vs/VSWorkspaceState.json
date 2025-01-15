@@ -5,8 +5,9 @@
     "\\backend\\DTOs",
     "\\backend\\DTOs\\Mapings",
     "\\backend\\Migrations",
-    "\\backend\\Models"
+    "\\backend\\Models",
+    "\\backend\\Repositories"
   ],
-  "SelectedNode": "\\backend\\DTOs\\Mapings\\MappingProfile.cs",
+  "SelectedNode": "\\backend\\Repositories\\UserRepository.cs",
   "PreviewInSolutionExplorer": false
 }
