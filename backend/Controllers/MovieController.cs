@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using P_Review.ApiMovie.DTOs;
+using P_Review.ApiMovie.DTOs.MovieDTOs;
 using P_Review.ApiMovie.Services;
 using System.Data;
 

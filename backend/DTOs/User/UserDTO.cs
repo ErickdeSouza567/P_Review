@@ -1,7 +1,7 @@
 ﻿using P_Review.ApiMovie.Models;
 using System.ComponentModel.DataAnnotations;
 
-namespace P_Review.ApiMovie.DTOs
+namespace P_Review.ApiMovie.DTOs.UserDTOs
 {
     public class UserDTO
     {

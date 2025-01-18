@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using P_Review.ApiMovie.DTOs;
+using P_Review.ApiMovie.DTOs.UserDTOs;
 using P_Review.ApiMovie.Models;
 using P_Review.ApiMovie.Services;
 using System.Data;
@@ -29,7 +29,7 @@ public class UserController : ControllerBase
     }
 
     [HttpGet("movies")]
-    public async Task<ActionResult<IEnumerable<UserDTO>>> GetUsersMovies()
+    public async Task<ActionResult<IEnumerable<UserMoviesDTO>>> GetUsersMovies()
     {
         var usersDto = await _userService.GetUserMovies();
         if (usersDto == null)

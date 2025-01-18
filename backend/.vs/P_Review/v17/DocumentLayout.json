@@ -3,64 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\dtos\\user\\usermoviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:dtos\\user\\usermoviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\dtos\\movie\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:dtos\\movie\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\dtos\\mapings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:dtos\\mapings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\dtos\\mapings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:dtos\\mapings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\migrations\\20250102023237_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:migrations\\20250102023237_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|solutionrelative:services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A2DBA3-1551-41DB-9ABD-962C9E8535AA}|P_Review.ApiMovie.csproj|c:\\users\\erick\\desktop\\p_review\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -74,11 +86,161 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\User\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\User\\UserDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T01:35:34.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:42:26.663Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:42:09.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:41:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMoviesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\User\\UserMoviesDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserMoviesDTO.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\User\\UserMoviesDTO.cs",
+              "RelativeToolTip": "DTOs\\User\\UserMoviesDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:53:52.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\Mapings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "DTOs\\Mapings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\Mapings\\MappingProfile.cs",
+              "RelativeToolTip": "DTOs\\Mapings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:00:01.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:50:47.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:41:09.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\Movie\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Movie\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\Movie\\MovieDTO.cs",
+              "RelativeToolTip": "DTOs\\Movie\\MovieDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T01:35:34.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:49:03.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
@@ -91,54 +253,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T19:49:03.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T19:36:37.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovieDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\MovieDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\MovieDTO.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\MovieDTO.cs",
-              "RelativeToolTip": "DTOs\\MovieDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T01:35:34.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T01:35:34.077Z",
+              "WhenOpened": "2025-01-15T01:35:31.894Z",
               "EditorCaption": ""
             },
             {
@@ -149,90 +272,53 @@
               "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\IUserRepository.cs",
               "RelativeToolTip": "Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T01:35:32.851Z"
+              "WhenOpened": "2025-01-15T01:35:32.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\MovieRepository.cs",
-              "RelativeToolTip": "Repositories\\MovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T01:35:31.894Z"
+              "WhenOpened": "2025-01-18T19:36:37.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "20250102023237_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Migrations\\20250102023237_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250102023237_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Migrations\\20250102023237_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250102023237_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:50:51.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MovieController.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
               "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Controllers\\MovieController.cs",
               "RelativeToolTip": "Controllers\\MovieController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T01:12:17.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T00:42:26.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T00:42:09.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\IUserService.cs",
-              "RelativeToolTip": "Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T00:41:40.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\Mapings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "DTOs\\Mapings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\DTOs\\Mapings\\MappingProfile.cs",
-              "RelativeToolTip": "DTOs\\Mapings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T20:00:01.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -244,41 +330,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "MovieService.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\MovieService.cs",
               "RelativeDocumentMoniker": "Services\\MovieService.cs",
               "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\MovieService.cs",
               "RelativeToolTip": "Services\\MovieService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T00:41:43.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "IMovieService.cs",
               "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\IMovieService.cs",
               "RelativeDocumentMoniker": "Services\\IMovieService.cs",
               "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Services\\IMovieService.cs",
               "RelativeToolTip": "Services\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T00:41:39.086Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Erick\\Desktop\\P_Review\\backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T00:41:09.533Z"
             }
           ]
         }

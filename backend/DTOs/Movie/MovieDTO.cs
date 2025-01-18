@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Text.Json.Serialization;
 using P_Review.ApiMovie.Models;
 
-namespace P_Review.ApiMovie.DTOs;
+namespace P_Review.ApiMovie.DTOs.MovieDTOs;
 
 public class MovieDTO
 {

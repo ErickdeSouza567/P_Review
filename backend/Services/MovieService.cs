@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using P_Review.ApiMovie.DTOs;
+using P_Review.ApiMovie.DTOs.MovieDTOs;
 using P_Review.ApiMovie.Models;
 using P_Review.ApiMovie.Repositories;
 

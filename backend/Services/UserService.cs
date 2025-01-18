@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using P_Review.ApiMovie.DTOs;
+using P_Review.ApiMovie.DTOs.UserDTOs;
 using P_Review.ApiMovie.Models;
 using P_Review.ApiMovie.Repositories;
 
@@ -21,10 +21,10 @@ namespace P_Review.ApiMovie.Services
             return _mapper.Map<IEnumerable<UserDTO>>(usersEntity);
         }
 
-        public async Task<IEnumerable<UserDTO>> GetUserMovies()
+        public async Task<IEnumerable<UserMoviesDTO>> GetUserMovies()
         {
             var usersEntity = await _userRepository.GetUsersMovies();
-            return _mapper.Map<IEnumerable<UserDTO>>(usersEntity);
+            return _mapper.Map<IEnumerable<UserMoviesDTO>>(usersEntity);
         }
 
 

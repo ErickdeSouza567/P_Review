@@ -1,4 +1,4 @@
-﻿using P_Review.ApiMovie.DTOs;
+﻿using P_Review.ApiMovie.DTOs.MovieDTOs;
 
 namespace P_Review.ApiMovie.Services;
 
