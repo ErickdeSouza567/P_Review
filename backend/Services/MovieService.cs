@@ -36,8 +36,8 @@ public class MovieService : IMovieService
 
     public async Task UpdateMovie(MovieDTO MovieDto)
     {
-        var categoryEntity = _mapper.Map<Movie>(MovieDto);
-        await _MovieRepository.Update(categoryEntity);
+        var userEntity = _mapper.Map<Movie>(MovieDto);
+        await _MovieRepository.Update(userEntity);
     }
 
     public async Task RemoveMovie(int id)
