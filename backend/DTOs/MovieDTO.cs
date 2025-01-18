@@ -18,7 +18,7 @@ public class MovieDTO
     [MinLength(5)]
     [MaxLength(200)]
     public string? Description { get; set; }
- 
+
     [MaxLength(250)]
     [DisplayName("Product Image")]
     public string? ImageURL { get; set; }

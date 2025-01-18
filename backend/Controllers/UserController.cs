@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using P_Review.ApiMovie.DTOs;
+using P_Review.ApiMovie.Models;
 using P_Review.ApiMovie.Services;
 using System.Data;
 
@@ -19,23 +20,23 @@ public class UserController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<UserDTO>>> Get()
     {
-        var categoriesDto = await _userService.GetUsers();
-        if (categoriesDto == null)
+        var usersDto = await _userService.GetUsers();
+        if (usersDto == null)
         {
             return NotFound("Users not found");
         }
-        return Ok(categoriesDto);
+        return Ok(usersDto);
     }
 
-    [HttpGet("products")]
+    [HttpGet("movies")]
     public async Task<ActionResult<IEnumerable<UserDTO>>> GetUsersMovies()
     {
-        var categoriesDto = await _userService.GetUserMovies();
-        if (categoriesDto == null)
+        var usersDto = await _userService.GetUserMovies();
+        if (usersDto == null)
         {
             return NotFound("Users not found");
         }
-        return Ok(categoriesDto);
+        return Ok(usersDto);
     }
 
     [HttpGet("{id:int}", Name = "GetUser")]
@@ -60,6 +61,7 @@ public class UserController : ControllerBase
         return new CreatedAtRouteResult("GetUser", new { id = userDto.UserId },
             userDto);
     }
+
 
     [HttpPut("{id:int}")]
     public async Task<ActionResult> Put(int id, [FromBody] UserDTO userDto)
