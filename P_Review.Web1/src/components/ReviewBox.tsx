@@ -1,61 +1,44 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import axios from 'axios';
 import '../styles/ReviewBox.css';
 import ReviewItem from './ReviewItem';
 
+interface Review {
+    imageUrl: string;
+    movieName: string;
+    authorName: string;
+}
+
+interface MovieDTO {
+    id: number;
+    name: string;
+    description: string;
+    imageURL: string;
+    userName: string;
+    userID: number;
+}
+
 const ReviewBox: React.FC = () => {
-    // Exemplo de dados de reviews
-    const reviews = [
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 1',
-            authorName: 'Autor 1'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 2',
-            authorName: 'Autor 2'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 3',
-            authorName: 'Autor 3'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 4',
-            authorName: 'Autor 4'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 5',
-            authorName: 'Autor 5'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 6',
-            authorName: 'Autor 6'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 7',
-            authorName: 'Autor 7'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 8',
-            authorName: 'Autor 8'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 9',
-            authorName: 'Autor 9'
-        },
-        {
-            imageUrl: 'https://via.placeholder.com/50x75',
-            movieName: 'Filme Exemplo 10',
-            authorName: 'Autor 10'
-        }
-    ];
+    const [reviews, setReviews] = useState<Review[]>([]);
+
+    useEffect(() => {
+        // Função para buscar os dados dos reviews do backend
+        const fetchReviews = async () => {
+            try {
+                const response = await axios.get('https://localhost:7250/api/movie'); // Substitua pela URL da sua API
+                const movies = response.data.map((movie: MovieDTO) => ({
+                    imageUrl: movie.imageURL,
+                    movieName: movie.name,
+                    authorName: movie.userName
+                }));
+                setReviews(movies);
+            } catch (error) {
+                console.error('Erro ao buscar os reviews:', error);
+            }
+        };
+
+        fetchReviews();
+    }, []);
 
     return (
         <div className="review-box">

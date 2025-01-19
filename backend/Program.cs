@@ -1,8 +1,8 @@
+using LojaMicro.ApiProduto.Repositories;
 using Microsoft.EntityFrameworkCore;
 using P_Review.ApiMovie.Context;
 using P_Review.ApiMovie.Repositories;
 using P_Review.ApiMovie.Services;
-using LojaMicro.ApiProduto.Repositories;  // Use o namespace correto para o seu AppDbContext
 
 namespace P_Review.ApiMovie
 {
@@ -15,17 +15,23 @@ namespace P_Review.ApiMovie
             var mySqlConnection = builder.Configuration.GetConnectionString("DefaultConnection");
 
             builder.Services.AddDbContext<AppDbContext>(options =>
-                    options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)
-                    ));
+                options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
 
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-            // Add services to the container.
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowSpecificOrigin",
+                    builder => builder.WithOrigins("http://localhost:60707") // Substitua pela URL correta
+                                      .AllowAnyHeader()
+                                      .AllowAnyMethod());
+            });
+
             builder.Services.AddControllers()
             .AddJsonOptions(options =>
             {
-             options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
-             });
+                options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+            });
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -45,6 +51,9 @@ namespace P_Review.ApiMovie
             }
 
             app.UseHttpsRedirection();
+
+            // Aplique o middleware de CORS aqui
+            app.UseCors("AllowSpecificOrigin");
 
             app.UseAuthorization();
 
