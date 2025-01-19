@@ -9,7 +9,9 @@ function App() {
             <MainLayout>
                 <Routes>
                     <Route path="/" element={<HomePage />} />
-                    {/* Adicione outras rotas aqui */}
+                    <Route path="/reviews" element={<HomePage />} />
+                    <Route path="/about" element={<HomePage />} />
+                    <Route path="/login" element={<HomePage />} />
                 </Routes>
             </MainLayout>
         </Router>

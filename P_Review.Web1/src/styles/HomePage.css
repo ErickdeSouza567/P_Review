@@ -1,15 +1,100 @@
-.home-page {
-    font-family: Arial, sans-serif;
-    text-align: center;
+/* Geral */
+body {
+    margin: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #f4f4f9;
     color: #333;
 }
 
-.header {
-    background-color: #282c34;
-    padding: 20px;
-    color: white;
+/* Layout Principal */
+.main-layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 10px 20px;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-logo a {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #facc15;
+    text-decoration: none;
+}
+
+.navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+    .navbar-links li a {
+        color: white;
+        text-decoration: none;
+        font-size: 1rem;
+        transition: color 0.3s ease;
+    }
+
+        .navbar-links li a:hover {
+            color: #4f46e5;
+        }
+
+    /* Login link (destacado em amarelo) */
+    .navbar-links li .login-link {
+        color: #facc15;
+        font-weight: bold;
+    }
+
+        .navbar-links li .login-link:hover {
+            color: #fbbf24; /* Amarelo mais claro no hover */
+        }
+
+/* Conteúdo */
+.content {
+    flex: 1;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 1200px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Header da Home Page */
+.header {
+    background-color: #282c34;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.header-title {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+    .header-title .highlight {
+        color: #facc15;
+    }
+
+.header-subtitle {
+    font-size: 1.2rem;
+    margin: 0;
+    color: #ddd;
+}
+
+/* Reviews Section */
 .main-content {
     padding: 20px;
 }
@@ -18,11 +103,36 @@
     margin-top: 20px;
 }
 
+.section-title {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: purple;
+}
+
+.section-description {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.placeholder-text {
+    font-style: italic;
+    color: #999;
+}
+
+/* Footer */
 .footer {
-    background-color: #282c34;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #1f2937;
     color: white;
-    padding: 10px;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    font-size: 0.9rem;
+}
+
+    .footer .highlight {
+        color: #4f46e5;
+    }
+
+.footer-credits {
+    margin-top: 5px;
+    color: #888;
 }
