@@ -2,12 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\backend",
+    "\\backend\\Controllers",
     "\\backend\\DTOs",
     "\\backend\\DTOs\\Mapings",
     "\\backend\\Migrations",
     "\\backend\\Models",
     "\\backend\\Repositories"
   ],
-  "SelectedNode": "\\backend\\Repositories\\UserRepository.cs",
+  "SelectedNode": "\\backend\\Controllers\\MovieController.cs",
   "PreviewInSolutionExplorer": false
 }
