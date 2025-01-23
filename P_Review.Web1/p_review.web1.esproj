@@ -13,7 +13,6 @@
     <Folder Include="src\Features\" />
     <Folder Include="src\hooks\" />
     <Folder Include="src\utils\" />
-    <Folder Include="src\types\" />
     <Folder Include="src\store\" />
     <Folder Include="src\services\" />
     <Folder Include="src\routes\" />

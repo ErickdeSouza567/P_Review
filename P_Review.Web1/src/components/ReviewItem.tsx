@@ -1,13 +1,9 @@
 import React from 'react';
 import '../styles/ReviewItem.css';
+import { IReviewItemProps } from '../types/IReviewItemProps';
 
-interface ReviewItemProps {
-    imageUrl: string;
-    movieName: string;
-    authorName: string;
-}
 
-const ReviewItem: React.FC<ReviewItemProps> = ({ imageUrl, movieName, authorName }) => {
+const ReviewItem: React.FC<IReviewItemProps> = ({ imageUrl, movieName, authorName }) => {
     return (
         <div className="review-item">
             <img src={imageUrl} alt={movieName} className="review-item-image" />
