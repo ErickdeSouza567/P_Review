@@ -1,28 +1,63 @@
 .review-item {
+    background-color: #1f1f1f; /* Fundo escuro para destacar o conteúdo */
+    border-radius: 10px;
+    overflow: hidden;
     display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
     align-items: center;
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-width: 600px;
+    height: 200px;
+    margin: 20px;
+    padding: 15px;
+    cursor: pointer;
 }
 
+    .review-item:hover {
+        transform: translateY(-10px); /* Efeito de "levitar" quando passa o mouse */
+        box-shadow: 0 6px 30px rgba(0, 0, 0, 0.3);
+    }
+
 .review-item-image {
-    width: 50px;
-    height: 75px;
+    width: 100%;
+    height: 200px;
     object-fit: cover;
-    border-radius: 5px;
-    margin-right: 10px;
+    border-radius: 8px;
+    transition: opacity 0.3s ease;
 }
 
 .review-item-content {
-    flex: 1;
+    text-align: center;
+    color: #fff;
+    margin-top: 15px;
 }
 
 .review-item-movie-name {
-    font-size: 1.2em;
-    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffd700; /* Dourado para destacar o nome do filme */
+    transition: color 0.3s ease;
 }
 
+    .review-item-movie-name:hover {
+        color: #ff6347; /* Cor de destaque (tom de vermelho suave) ao passar o mouse */
+    }
+
 .review-item-author-name {
-    font-size: 0.9em;
-    color: #666;
+    font-size: 1rem;
+    color: #ccc; /* Cor mais suave para o nome do autor */
+    margin-top: 5px;
+    font-style: italic;
+}
+
+@media (max-width: 768px) {
+    .review-item {
+        max-width: 95%;
+    }
+
+    .review-item-image {
+        height: 150px; /* Ajustar imagem para dispositivos móveis */
+    }
 }
