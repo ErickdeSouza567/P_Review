@@ -53,7 +53,7 @@ namespace P_Review.ApiMovie
             app.UseHttpsRedirection();
 
             // Aplique o middleware de CORS aqui
-            app.UseCors("AllowSpecificOrigin");
+            app.UseCors("AllowSpecificOrigin"); // cors
 
             app.UseAuthorization();
 
